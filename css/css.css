@@ -1,0 +1,184 @@
+section{
+    width: 1000px;
+    margin: 30px auto;
+}
+
+
+/*----------SECCIÓN 1----------*/
+
+
+.tituloI{
+    color: #296972;
+    font-size: 60px;
+    font-family: inherit;
+    text-align: center; 
+    margin: 30px 0px 0px 0px;
+}
+
+.texto1{
+    font-size: 18px;
+    font-family: monospace;
+}
+
+
+/*----------SECCIÓN 2----------*/
+
+
+.celda{
+    background-color: #A89B3D;
+    font-size: 25px;
+    font-family: inherit;
+    color: #FAFAFA;
+    text-align: center;
+}
+
+td{
+  font-size: 18px;
+  font-family: monospace;
+  text-align:center;
+}
+
+
+/*----------SUBTÍTULOS Y TEXTOS----------*/
+
+
+h3{
+    color: #296972;
+    font-size: 24px;
+    font-family: fantasy;
+    margin: 20px 0px 0px 0px
+}
+
+.texto2{
+    font-size: 20px;
+    font-family: monospace;
+    margin:0px 0px 15px 0px;
+}
+
+h2{
+    color: #EA493F;
+    font-size: 26px;
+    font-family: inherit;
+    text-align: center;
+    margin: 50px 0px 20px 0px;
+ } 
+
+h4{
+    color: #54B7D7;
+    font-size: 20px;
+    font-family: inherit;  
+    margin: 20px 20px 10px 20px;
+}
+
+
+/*----------SECCIÓN 3----------*/
+
+
+.S3{
+    box-sizing: 30px;
+}
+
+.sub_lista{
+    color: #A89B3D;
+    font-size: 20px;
+    font-family: inherit;  
+    margin: 20px 20px 10px 20px;
+}
+
+.no_hay{
+    font-size: 18px;
+    font-family: monospace;
+    margin:0px 0px 15px 15px;
+}
+
+.definicion{
+    font-size: 18px;
+    font-family: monospace;
+    margin: 0px 0px 10px 15px;
+}
+
+li{
+   font-size: 18px;
+   font-family: monospace;
+   margin: 0px 0px 0px 30px; 
+}
+
+a{
+   font-size: 18px;
+   font-family: monospace; 
+   color: #DCAB10;
+   margin: 0px 0px 0px 350px;
+}
+
+.nota{
+    font-size: 20px;
+    font-family: monospace;
+    color: #DCAB10;
+    margin:15px 45px;
+}
+
+
+/*----------SECCIÓN 4----------*/
+
+
+.S4{
+    box-sizing: 30px;
+}
+
+.recurso1{
+    border: 10px double #DCAB10;
+    border-radius: 20px;
+    margin: 15px 0px 0px 275px;
+}
+
+
+/*----------SECCIÓN 5----------*/
+
+
+.S5{
+    box-sizing: 30px;
+}
+
+.propiedades_tablas{
+    margin: auto;
+    border-collapse: collapse;
+}
+
+tr,td{
+    border: 2px solid #000000;
+}
+
+.celdas3{
+    background-color: #A89B3D;
+    font-size: 25px;
+    font-family: fantasy;
+    color: #FAFAFA;
+    text-align: center;
+}
+
+.colores_lista{
+    margin: auto;
+    color: #54B7D7;
+}
+
+
+/*----------SECCIÓN 6----------*/
+
+
+.S6{
+    box-sizing: 30px;
+}
+
+.mdc{
+    color: #54B7D7;
+    font-size: 28px;
+    font-family:inherit;
+    text-align: center;
+}
+
+.recurso2{
+    width: 500px;
+    height: 350px;
+    margin: 15px 0px 0px 275px;
+}
+
